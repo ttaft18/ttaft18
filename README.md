@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome to My GitHub Profile!
 
-<!--
-**ttaft18/ttaft18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi there! 👋 My name is Tyler Taft, a passionate Computer Science student at Western Governors University (WGU).<br> Here, you'll find a collection of my projects, contributions, and experiments in coding and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me<br>
+🔭 Currently Working On: Enhancing my programming skills through various projects and coursework.<br>
+🌱 Currently Learning: Advanced algorithms, data structures, and software development best practices.<br>
+👯 Looking to Collaborate On: Open source projects, innovative software solutions, and academic research.<br>
+🤔 Open to Help With: Coding challenges, debugging, and learning new technologies.<br>
+💬 Ask Me About: Computer science fundamentals, my projects, and my journey at WGU.<br>
+📫 How to Reach Me: linkedin.com/in/tyler-taft-8a279a286<br>
+⚡ Fun Fact: I love solving complex problems and enjoy learning about new programming languages and technologies.
